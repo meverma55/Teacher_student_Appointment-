@@ -2,8 +2,7 @@
 
 Student-Teacher Appointment System Project Overview I'm excited to introduce the Student-Teacher Appointment System, a comprehensive platform developed to simplify the appointment process for students and teachers. This project was created using HTML, CSS, JavaScript, and Firebase during my internship at Unified Mentor.
 
-# Key Features: User-Friendly Design
-
+Key Features: User-Friendly Design
 Implemented a minimalistic and intuitive interface to ensure seamless navigation for all users. Prioritized user experience by creating a clean and straightforward design. Authentication Developed robust user registration and login functionalities for secure access using Firebase Authentication. Ensured user data protection and secure login processes. Appointment Management Created a streamlined system for booking, managing, and updating appointments. Users can easily book appointments by entering details such as time, date, teacher's name, student's name, and email. Backend Functionality Implemented a backend system using Firebase for real-time database management. Facilitated efficient appointment approval and deletion processes. Learning Experience Front-End Development
 
  Responsive Design: Designed layouts to be responsive across various devices using Flexbox and media queries.
@@ -16,3 +15,9 @@ Implemented a minimalistic and intuitive interface to ensure seamless navigation
 Ensured the backend system is efficient and capable of handling real-time data operations. Implemented functionalities that streamline administrative tasks and improve communication between educators and students. Future Enhancements Advanced Appointment Features: Add functionalities such as recurring appointments and appointment reminders. User Role Management: Implement role-based access to provide different functionalities for students and teachers. Enhanced User Interface: Continuously improve the user interface based on user feedback. Conclusion Working on the Student-Teacher Appointment System has significantly deepened my skills in front-end development, back-end integration, and project management. This project has been a rewarding experience, showcasing how technology can streamline administrative tasks and improve communication in educational settings.
 
 I'm looking forward to applying these skills in future projects and continuing to explore innovative solutions in web development and user interface design.Thank you for visiting the Student-Teacher Appointment System.
+# Features: 
+![book-appo](https://github.com/user-attachments/assets/111238bd-28c0-4576-9453-df5335d68c3e)
+![Firebase-auth](https://github.com/user-attachments/assets/9a7cb3f9-4fc1-4005-a222-76dcab3d7450)
+![login](https://github.com/user-attachments/assets/a62e85ee-3e28-4570-8ead-def0dbb37339)
+![register](https://github.com/user-attachments/assets/8ba017ab-7251-4368-b4c0-16c18dac3dc7)
+![view-appoinment](https://github.com/user-attachments/assets/438e97fc-137b-43c9-89f4-9e73944b4504)
